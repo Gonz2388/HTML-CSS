@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de Introduccion a HTML en OpenBootcamp</title>
+    </head>
+    <body>
+        <div>
+            <p>Este es mi primer comentario de dos líneas</p>
+        </div>
+            <p>Aprendiendo a documentar mi código con OpenBootcamp</p>
+        <div>
+            <h1>Mis tres vídeos favoritos de Youtube</h1>
+            <ul>
+            <li><a href="https://www.youtube.com/watch?v=C5jS1gNWcAA">Life BEFORE and AFTER Having a German Shepherd Puppy</a></li>
+            <li><a href="https://www.youtube.com/watch?v=fLnMxkwhj8Q">My New German Shepherd Puppy: The First 3 Months at Home</a></li>
+            <li><a href="https://www.youtube.com/watch?v=-ufHrUMbne8">Dog Reviews Food with German Shepherd Brother - Part 2</a></li>
+            </ul>
+        </div>
+    </body>
+</html>
